@@ -1,3 +1,3 @@
 # Hello-world
 Premiers pas
-hi , je commence
+hi , je debut
